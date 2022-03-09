@@ -1,2 +1,2 @@
-git is good
-learn git
+lrn git
+add
