@@ -7,8 +7,6 @@ test remote
 
 test branch dev
 
+<<<<<<< HEAD
 test ma
 
-cccccc
-qweqewqeqew
-feature2222222222
