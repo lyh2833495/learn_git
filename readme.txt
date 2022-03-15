@@ -1,23 +1,31 @@
 <<<<<<< Updated upstream
 1
-23
-4
-=======
-asdalrn git  11111111111111111
-add
-asdasdsad
+//23
+//
+//======
+//sdalrn git  11111111111111111
+//dd
+//
+//
+//
+//
+//asdasdsad
+//
+//
+//
+//hat remote
 
-test remote
+hat branch dev
 
-test branch dev
+hat branch dev
+
+
+
+ 
+
+ 
+<<<a<<< D
 
 <<<<<<< HEAD
-test ma
-
-cccccc
-qweqewqeqew
-feature2222222222
-=======
-test
->>>>>>> 6dc9c4d15e09a1f3ee000a885118b7350d793bfd
->>>>>>> Stashed changes
+<<<<<<< HEAD
+<<<<<<< HEAD
